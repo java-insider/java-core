@@ -1,2 +1,2 @@
-# basic-java
-Códigos-fonte do curso de Basic Java do Java Insider.
+# java-core
+Códigos-fonte do curso de Java Core do Java Insider.
